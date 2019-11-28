@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordApi", "WordApi\WordApi.csproj", "{F32741D0-24A4-45D5-8396-81E44E652697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32741D0-24A4-45D5-8396-81E44E652697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32741D0-24A4-45D5-8396-81E44E652697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32741D0-24A4-45D5-8396-81E44E652697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32741D0-24A4-45D5-8396-81E44E652697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {449F7D5D-84EB-43DE-AABF-8EA9C69EA01D}
+	EndGlobalSection
+EndGlobal
